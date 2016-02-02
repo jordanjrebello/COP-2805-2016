@@ -34,6 +34,9 @@ public class Main {
                 System.out.println("Hey, this is Janna Barry.");
                 counter++;
                 
+                System.out.println("What's up people, this is Juan Restrepo ready to java!");
+                counter++;
+                
 		System.out.println("Number of people who edited this file: " + counter);
 	}
 }
