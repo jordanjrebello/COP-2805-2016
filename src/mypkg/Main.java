@@ -37,6 +37,9 @@ public class Main {
                 System.out.println("What's up people, this is Juan Restrepo ready to java!");
                 counter++;
                 
+                System.out.println("Hey, it's Nolan! Hope everyone's doing OK.");
+                counter++;
+                
 		System.out.println("Number of people who edited this file: " + counter);
 		
 		//This is my hello statement, play on words...
