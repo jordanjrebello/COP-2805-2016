@@ -45,7 +45,7 @@ public class Main {
                 counter++;
                 
                 //This is Alex Infante adding my statement
-                System.out.println("Hi guys, I am really enjoying java now.");
+                System.out.println("Java is all i need to wake up in the morning.");
                 counter++;
                 
 		System.out.println("Number of people who edited this file: " + counter);
