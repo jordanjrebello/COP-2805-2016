@@ -44,6 +44,10 @@ public class Main {
                 System.out.println("Hey there everybody, Zack Oliver is up in the Home repot!!");
                 counter++;
                 
+                //This is Alex Infante adding my statement
+                System.out.println("Hi guys, I am really enjoying java now.");
+                counter++;
+                
 		System.out.println("Number of people who edited this file: " + counter);
 	}
 }
