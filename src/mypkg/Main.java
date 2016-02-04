@@ -48,6 +48,10 @@ public class Main {
                 System.out.println("Java is all i need to wake up in the morning.");
                 counter++;
                 
-		System.out.println("Number of people who edited this file: " + counter);
+                //This is Jonathan Girwar-Nath adding my statement for Project 2
+                System.out.println("Greetings friends, it's Jonathan G. In the words of Spock: Live long and prosper");
+		counter++;
+                
+                System.out.println("Number of people who edited this file: " + counter);
 	}
 }
