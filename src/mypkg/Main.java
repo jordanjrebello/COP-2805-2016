@@ -55,6 +55,9 @@ public class Main {
                 System.out.println("Hi everybody, I'm James Helvenston."); //Print my Git contribution
                 counter++;
                 
+                System.out.println("Hello, this is Kyle McIntyre");
+                counter++;
+                
                 if(1 != 2)
                 {
                     System.out.println("Ask not what Mark Helvenston can do for you, ask what you can do for Mark Helvenston");
