@@ -52,6 +52,10 @@ public class Main {
                 System.out.println("Greetings friends, it's Jonathan G. In the words of Spock: Live long and prosper");
 		counter++;
                 
+                //This is Jordan Rebello coming in to add his statement for project 2
+                System.out.println("ayy lmao  -Jordan Rebello");
+		counter++;
+                
                 System.out.println("Hi everybody, I'm James Helvenston."); //Print my Git contribution
                 counter++;
                 
@@ -65,9 +69,6 @@ public class Main {
                 }
                 
                 System.out.println("Hello, this is Zachary Gay.");
-                counter++;
-                //Eric McN. adding a print statement
-                System.out.println("Hello, this is Eric McN., using the Bean, for some Java fun.");
                 counter++;
                 
                 System.out.println("Number of people who edited this file: " + counter);
