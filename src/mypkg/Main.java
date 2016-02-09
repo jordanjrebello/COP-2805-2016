@@ -63,6 +63,7 @@ public class Main {
                 
                 System.out.println("Number of people who edited this file: " + counter);
                 
-                
+                System.out.println("Hello, this is Zachary Gay.");
+                counter++;
 	}
 }
